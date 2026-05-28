@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="手撕搜索二叉树/手撕搜索二叉树.vcxproj" Id="0e6a47df-2a62-480d-bd2f-8624e5c8e5ce" />
+</Solution>

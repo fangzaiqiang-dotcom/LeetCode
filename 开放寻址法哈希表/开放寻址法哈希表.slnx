@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="开放寻址法哈希表/开放寻址法哈希表.vcxproj" />
+</Solution>
